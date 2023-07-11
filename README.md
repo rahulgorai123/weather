@@ -25,11 +25,13 @@
 <table>
   <tr>
 <td><img src="https://github.com/rahulgorai123/weather/assets/106511080/1c5400cf-facd-425a-9d7a-3dc0110efb29" alt="" /></td>
-    <td><img src="https://github.com/rahulgorai123/weather/assets/106511080/8afde10c-e9bd-4b3f-b0e5-5e7b64ce44db" alt="" /></td>
+    <td><img src="https://github.com/rahulgorai123/weather/assets/106511080/8375bc50-661b-4a69-94aa-cdb87aff7af3" alt="" /></td>
+    
   </tr>
   <tr>
     <td><img src="https://github.com/rahulgorai123/weather/assets/106511080/7f9c205c-e127-4e30-8f95-f916a7db7a02" alt="" /></td>
-      <td><img src="https://github.com/rahulgorai123/weather/assets/106511080/8375bc50-661b-4a69-94aa-cdb87aff7af3" alt="" /></td>
+    <td><img src="https://github.com/rahulgorai123/weather/assets/106511080/8afde10c-e9bd-4b3f-b0e5-5e7b64ce44db" alt="" /></td>
+     
   </tr>
 </table>
 
